@@ -2,7 +2,8 @@
 
 ## Installing
 
-- `gem bump --version`
+- `gem signin`
+- `gem install gem-release`
 
 ## Updating
 
